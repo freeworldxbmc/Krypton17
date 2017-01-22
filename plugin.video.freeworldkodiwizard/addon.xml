@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.freeworldkodiwizard" name="[B][COLOR mediumspringgreen]Kodi Kripton Wizard[/COLOR][/B]" version="4.8" provider-name="Freeworld">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Kodi Kripton Wizard</summary>
+    <description lang="en">Freeworld Builds 2017</description>
+    <platform>all</platform>
+  </extension>
+</addon>

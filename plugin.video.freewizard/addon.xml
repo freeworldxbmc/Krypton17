@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.freewizard" version="1.0.0"
+	name="[B][COLOR silver]Kodi Master Wizard[/COLOR][/B]" provider-name="[COLOR silver]Freeworld[/COLOR]">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.addon.common" optional="true" />
+		<import addon="script.module.t0mm0.common" optional="true" />
+		<import addon="script.module.urlresolver" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Freeworld MultiMedia Wizard</summary>
+		<description></description>
+		<platform>all</platform>
+		<forum></forum>
+		<website>http://bit.ly/freeworldchannel</website>
+	</extension>
+</addon>

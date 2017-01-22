@@ -1,0 +1,608 @@
+name="James Dean Build"
+url="http://legionworldtv.com/master/Builds/JamesDeanBuild.zip"
+img="https://img.fotor.com/share/1484890812916aPB.jpg"
+fanart="http://images4.fanpop.com/image/photos/15400000/James-Dean-james-dean-15446726-1280-800.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="[B][COLOR lightgreen]KODI:Repositorys Installer[/COLOR][/B]"
+url="http://legionworldtv.com/master/"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Repos Installer "
+url="http://legionworldtv.com/master/REPOS-INSTALLER/plugin.program.repos.install.zip"
+img="http://legionworldtv.com/images/repos.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="[B][COLOR lightgreen]KODI:[/COLOR][COLOR tomato]Programs and Mantenimiento[/COLOR][/B]"
+url="http://legionworldtv.com/master/"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Hubwizard"
+url="http://legionworldtv.com/master/plugins/plugin.video.hubwizard-1.2.0.zip"
+img="http://legionworldtv.com/images/clean.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Freemaintenance"
+url="http://legionworldtv.com/master/Wizard/script.freemaintenance.zip"
+img="http://legionworldtv.com/images/clean.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Wookie"
+url="http://legionworldtv.com/master/plugins/wookie.wizard.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Xbmchubmaintenance"
+url="http://legionworldtv.com/master/plugins/plugin.video.xbmchubmaintenance-2.1.6.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="VectordroidWizard"
+url="http://legionworldtv.com/master/plugins/plugin.video.VectordroidWizard-1.0.3.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Spitfirewizard"
+url="http://legionworldtv.com/master/plugins/plugin.video.spitfirewizard-1.0.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="SimplyCazWizard"
+url="http://legionworldtv.com/master/plugins/plugin.video.SimplyCazWizard-1.0.4.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Schismwizard"
+url="http://legionworldtv.com/master/plugins/plugin.video.schismwizard-5.1.0.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Oblivionwizard"
+url="http://legionworldtv.com/master/plugins/plugin.video.Oblivionwizard-1.0.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Mdwizard"
+url="http://legionworldtv.com/master/plugins/plugin.video.mdwizard-1.1.6.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Kobra"
+url="http://legionworldtv.com/master/plugins/plugin.video.kobrawizard.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Evolutionwizard"
+url="http://legionworldtv.com/master/plugins/plugin.video.evolutionwizard-4.0.0.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Tech-Portal"
+url="http://legionworldtv.com/master/plugins/plugin.program.Tech-Portal-Wizard-4.3.21.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Soulless"
+url="http://legionworldtv.com/master/plugins/plugin.program.soulless-1.0.0.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Merlin"
+url="http://legionworldtv.com/master/plugins/plugin.program.merlin-10.3.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="MarshallWizard"
+url="http://legionworldtv.com/master/plugins/plugin.program.MarshallWizard-1.0.0.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Kodiuktv"
+url="http://legionworldtv.com/master/plugins/plugin.program.kodiuktv-1.2.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Kodimasterwizard"
+url="http://legionworldtv.com/master/plugins/plugin.program.kodimasterwizard-1.0.4.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="CellarDoorTVwizard"
+url="http://legionworldtv.com/master/plugins/plugin.program.CellarDoorTVwizard-0.1.0.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Brettus.Wizard"
+url="http://legionworldtv.com/master/plugins/plugin.program.Brettus.Wizard-1.0.4.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="[B][COLOR lightgreen]KODI:[/COLOR][COLOR tomato]  Skins[/COLOR][/B]"
+url="http://legionworldtv.com/master/"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Thegodfather"
+url="http://legionworldtv.com/master/plugins/skin.thegodfather.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="[B][COLOR lightgreen]KODI:[/COLOR][COLOR tomato]Dependencias y Services[/COLOR][/B]"
+url="http://legionworldtv.com/master/"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Chrome"
+url="http://legionworldtv.com/master/plugins/Chrome.launcher.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Exodus.artwork"
+url="http://legionworldtv.com/master/plugins/exodus.artwork.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Liveresolver"
+url="http://legionworldtv.com/master/plugins/Liveresolver.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Pydevd"
+url="http://legionworldtv.com/master/plugins/pydevd.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Script.gui.fix"
+url="http://legionworldtv.com/master/plugins/script.gui.fix.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Youtube.dl"
+url="http://legionworldtv.com/master/plugins/script.module.youtube.dl.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Mrknow.urlresolver"
+url="http://legionworldtv.com/master/plugins/script.mrknow.urlresolver.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Script.specto"
+url="http://legionworldtv.com/master/plugins/script.specto.zip
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Simple.downloader"
+url="http://legionworldtv.com/master/plugins/simple.downloader.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Simplejson"
+url="http://legionworldtv.com/master/plugins/simplejson.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Opensubtitles"
+url="http://legionworldtv.com/master/plugins/service.subtitles.opensubtitles_by_opensubtitles-5.1.14.zip"
+img="http://legionworldtv.com/images/sub.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Youtube"
+url="http://legionworldtv.com/master/plugins/plugin.video.youtube-v5.3.8.zip"
+img="http://legionworldtv.com/images/you.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Live.streamspro"
+url="http://legionworldtv.com/master/plugins/plugin.video.live.streamspro-2.7.3.zip"
+img="http://legionworldtv.com/images/lives.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Zen.artwork"
+url="http://legionworldtv.com/master/plugins/script.zen.artwork-1.3.0.zip"
+img="http://legionworldtv.com/images/art.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Quasar"
+url="http://legionworldtv.com/master/plugins/plugin.video.quasar-0.9.54.zip"
+img="http://legionworldtv.com/images/qua.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="SportsDevil"
+url="http://legionworldtv.com/master/plugins/plugin.video.SportsDevil-v31122016.zip"
+img="http://legionworldtv.com/images/devil.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Liveresolver"
+url="http://legionworldtv.com/master/plugins/script.module.liveresolver-0.1.48.zip"
+img="http://legionworldtv.com/images/res.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="F4mProxy"
+url="http://legionworldtv.com/master/plugins/script.video.F4mProxy-2.8.0.zip"
+img="http://legionworldtv.com/images/proxy.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="F4mTester"
+url="http://legionworldtv.com/master/plugins/plugin.video.f4mTester-v2.7.1.zip"
+img="http://legionworldtv.com/images/fm.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="P2p-streams"
+url="http://legionworldtv.com/master/plugins/plugin.video.p2p-streams-1.2.0b.zip"
+img="http://legionworldtv.com/images/p2p.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Pulsar"
+url="http://legionworldtv.com/master/plugins/plugin.video.pulsar-0.7.1.zip"
+img="http://legionworldtv.com/images/pul.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Favourites"
+url="http://legionworldtv.com/master/plugins/favourites.zip"
+img="http://legionworldtv.com/images/fav.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Plexus"
+url="http://legionworldtv.com/master/plugins/program.plexus-0.1.4.zip"
+img="http://legionworldtv.com/images/plex.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="PlaylistLoader"
+url="http://legionworldtv.com/master/plugins/plugin.video.playlistLoader-1.0.9.zip"
+img="http://legionworldtv.com/images/play.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="[B][COLOR lightgreen]KODI:[/COLOR][COLOR tomato]  Addons-Spanish[/COLOR][/B]"
+url="http://legionworldtv.com/master/"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Stallion-IPTV"
+url="http://legionworldtv.com/master/plugins/plugin.video.stallioniptv2017.zip"
+img="http://legionworldtv.com/images/stallion.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Golden TV"
+url="http://legionworldtv.com/master/GOLDENTV/plugin.video.goldentv.zip"
+img="http://legionworldtv.com/images/golden.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Zonalatina"
+url="http://legionworldtv.com/master/Wizard/plugin.video.zonalatina3.5.zip"
+img="http://legionworldtv.com/images/zone.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Vaughnlive.tv"
+url="http://legionworldtv.com/master/plugins/plugin.stream.vaughnlive.tv-0.1.8a(1).zip"
+img="http://legionworldtv.com/images/vau.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Adryanlist"
+url="http://legionworldtv.com/master/plugins/plugin.video.adryanlist-2.6.7.zip"
+img="http://legionworldtv.com/images/adryan.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Tecnotv"
+url="http://legionworldtv.com/master/plugins/plugin.video.tecnotv.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Catoal"
+url="http://legionworldtv.com/master/plugins/plugin.video.Catoal-5.3.8.zip"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Bassfox"
+url="http://legionworldtv.com/master/plugins/plugin.video.bassfox-1.6.7.zip"
+img="http://legionworldtv.com/images/bassfox.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Cuba-tv"
+url="http://legionworldtv.com/master/plugins/plugin.video.cuba-tv-0.0.8.zip"
+img="http://legionworldtv.com/images/cuba.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Deadpool"
+url="http://legionworldtv.com/master/plugins/plugin.video.deadpool-0.13.0.zip"
+img="http://legionworldtv.com/images/deadpool.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Kodi-911"
+url="http://legionworldtv.com/master/plugins/plugin.video.kodi-911-3.5.1.zip"
+img="http://legionworldtv.com/images/911.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Pelisalacarta"
+url="http://legionworldtv.com/master/plugins/plugin.video.pelisalacarta-4.1.2.zip"
+img="http://legionworldtv.com/images/pelis.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="[B][COLOR lightgreen]KODI:[/COLOR][COLOR tomato]  Addons-English[/COLOR][/B]"
+url="http://legionworldtv.com/master/"
+img="http://legionworldtv.com/images/freew.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+
+name="Exodusfork"
+url="http://legionworldtv.com/master/plugins/plugin.video.exodusfork-2.0.21.zip"
+img="http://legionworldtv.com/images/exo.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Mdmovievault"
+url="http://legionworldtv.com/master/plugins/plugin.video.mdmovievault-1.0.0.zip"
+img="http://legionworldtv.com/images/md.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Dandymedia"
+url="http://legionworldtv.com/master/plugins/plugin.video.dandymedia-2.6.9.zip"
+img="http://legionworldtv.com/images/dandy.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="MaverickTV"
+url="http://legionworldtv.com/master/plugins/plugin.video.MaverickTV-1.7.zip"
+img="http://legionworldtv.com/images/maveric.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Ccloudtv"
+url="http://legionworldtv.com/master/plugins/plugin.video.ccloudtv-1.5.1.zip"
+img="http://legionworldtv.com/images/ccloud.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Paragon"
+url="http://legionworldtv.com/master/plugins/plugin.video.paragon-1.1.zip"
+img="http://legionworldtv.com/images/paragon.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Phstreams"
+url="http://legionworldtv.com/master/plugins/plugin.video.phstreams-3.1.22.zip"
+img="http://legionworldtv.com/images/ph.png"
+fanart="http://legionworldtv.com/images/fanartclean.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Sanctuary"
+url="http://legionworldtv.com/master/plugins/plugin.video.sanctuary-0.4.7.zip"
+img="http://legionworldtv.com/images/san.png"
+fanart="http://legionworldtv.com/images/fanartrepo.jpg"
+description="The Best Kodi Repos Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+
+name="Zen"
+url="http://legionworldtv.com/master/plugins/plugin.video.zen-1.5.4.zip"
+img="http://legionworldtv.com/images/zen.png"
+fanart="http://legionworldtv.com/images/fanartgolden.jpg"
+description="The Best IPTV Addon from Kodi!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
